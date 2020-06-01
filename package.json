@@ -1,0 +1,18 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "Chatcat Application built in nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sanjula De Alwis",
+  "license": "ISC",
+  "engines": {
+    "node": "10.16.0"
+  },
+  "dependencies": {
+    "ejs": "3.1.3",
+    "express": "4.17.1"
+  }
+}
